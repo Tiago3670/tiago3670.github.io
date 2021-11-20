@@ -1,0 +1,224 @@
+body {
+    margin: 0;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+.container-cab {
+    width: 100%;
+    height: 150px;
+    background-color: #51bacf;
+}
+
+.container-name {
+    width: 70%;
+    height: 150px;
+    background-color: rgba(79, 205, 226, 255);
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-block;
+}
+
+.text-name {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 35px;
+    color: #2d6975;
+}
+
+.text-1 {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 23px;
+    margin-left: 30px;
+    color: #2d6975;
+}
+
+hr {
+    margin: 0;
+    height: 6px;
+    border: 0;
+    box-shadow: inset 0 6px 6px 0px #2d6975;
+}
+
+.container-main {
+    width: 70%;
+    height: 150px;
+    background-color: rgba(79, 205, 226, 255);
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-table;
+    background-color: white;
+    height: 80%;
+    position: relative;
+}
+
+.words {
+    width: 300px;
+    height: 30px;
+    background-color: #2d6975;
+    display: flex;
+    margin-left: 2%;
+    text-align: center;
+    margin-top: -20px;
+    position: absolute;
+    border-radius: 40px;
+    color: #fff;
+    font-size: 19px;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-2 {
+    color: #FFFFFF;
+    font-family: cursive;
+    margin-top: 6px;
+    font-size: 16px;
+    padding: 0px 4px;
+    text-decoration: none;
+}
+
+.text-2 a {
+    text-decoration: none;
+}
+
+.text-topicos {
+    color: black;
+    font-family: cursive;
+    font-size: 2em;
+    margin-top: 1em;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.ul1 {
+    list-style-type: none;
+    font-family: cursive;
+}
+
+.li1 {
+    padding: 8px;
+    margin-left: -16px;
+}
+
+.text-list {
+    width: 30%;
+}
+
+.container-img {
+    width: 20%;
+    height: 173px;
+    margin-top: -13em;
+    border-style: solid;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 76%;
+    background-image: url(../img/avatar.jpg);
+    position: absolute;
+    display: block;
+}
+
+
+/*Fomulario*/
+
+legend {
+    font-family: cursive;
+}
+
+.input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(0, 0, 0);
+    resize: vertical;
+    margin-left: -5em;
+    height: 1px;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    margin-top: -3px;
+    font-family: cursive;
+}
+
+.btn {
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    float: right;
+    font-family: cursive;
+    font-weight: bold;
+    background-color: #51bacf;
+    border-style: none;
+    margin-right: 3em;
+    width: 3em;
+    color: black;
+    font-weight: bold;
+    height: 1em;
+}
+
+.container-form {
+    position: relative;
+    padding: 20px;
+    display: block;
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+.coluna-txt {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.coluna-input {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+.linha:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.container-li {
+    background-color: transparent;
+    width: 100%;
+    height: 30%;
+    position: relative;
+}
+
+li {
+    padding: 1px;
+    margin-left: 7px;
+}
+
+ul {
+    font-family: cursive;
+}
+
+footer {
+    width: 100%;
+    height: 120px;
+    background: #909091;
+    position: relative;
+    bottom: 0px;
+}
+
+.footer-text {
+    color: #FFFFFF;
+    font-size: 25px;
+    margin-left: 16%;
+}
+
+.footer-text a {
+    color: #FFFFFF;
+    padding: 14px;
+    font-size: 18px;
+    font-family: cursive;
+    margin-top: 10px;
+}
