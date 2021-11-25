@@ -20,7 +20,7 @@
         }
         
         .text-name {
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
             font-weight: bold;
             font-size: 40px;
             margin-left: 30px;
@@ -29,7 +29,7 @@
         }
         
         .text-1 {
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
             font-weight: bold;
             font-size: 23px;
             margin-left: 30px;
@@ -78,7 +78,7 @@
         
         .text-2 {
             color: #FFFFFF;
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
             margin-top: 6px;
             font-size: 16px;
             padding: 0px 4px;
@@ -91,7 +91,7 @@
         
         .text-topicos {
             color: black;
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
             font-size: 2em;
             margin-top: 1em;
             font-weight: bold;
@@ -101,7 +101,7 @@
         
         .ul1 {
             list-style-type: none;
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
             font-size: 14pt;
         }
         
@@ -131,7 +131,7 @@
         /*Fomulario*/
         
         legend {
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
         }
         
         .input {
@@ -141,7 +141,7 @@
             resize: vertical;
             margin-left: -5em;
             height: 1px;
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
         }
         
         .area {
@@ -150,14 +150,14 @@
             border: 1px solid rgb(0, 0, 0);
             resize: vertical;
             margin-left: -5em;
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
         }
         
         label {
             padding: 12px 12px 12px 0;
             display: inline-block;
             margin-top: -3px;
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
         }
         
         .btn {
@@ -165,15 +165,15 @@
             border: none;
             cursor: pointer;
             float: right;
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
             font-weight: bold;
             background-color: #51bacf;
             border-style: none;
             margin-right: 3em;
-            width: 3em;
+            width: 6em;
             color: black;
             font-weight: bold;
-            height: 1em;
+            height: 3em;
         }
         
         .container-form {
@@ -215,7 +215,7 @@
         }
         
         ul {
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
         }
         
         footer {
@@ -236,7 +236,7 @@
             color: #FFFFFF;
             padding: 14px;
             font-size: 18px;
-            font-family: cursive, arial;
+            font-family: cursive, arial, 'Courier New';
             margin-top: 10px;
         }
         
