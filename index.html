@@ -3,27 +3,26 @@
 
 <head>
     <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
-
-    <div class="container-cab">
+    <header>
         <div class="container-name">
             <div class="text-name">Tiago Almeida </div>
             <div class=text-1> <b>HomePage</b></div>
         </div>
-
-    </div>
+    </header>
 
     <hr>
 
+    <main>
 
-    <div class="container-main">
         <div class="words">
             <div> <a href="#quem " class="text-2">Quem Sou </a>| <a href="#conta " class="text-2">Contacte-me</a>| <a href="#Links " class="text-2">Links</a> </div>
         </div>
+        <div class="text-topicos"><a id="quem">Quem Sou </a> </div>
         <div class="text-list">
-            <div class="text-topicos"> <a id="quem">Quem Sou  </a></div>
             <ul class="ul1">
                 <li class="li1"><b>Nome:</b>Tiago Almeida</li>
                 <li class="li1"><b>Idade:</b>19 anos</li>
@@ -31,12 +30,12 @@
                 <li class="li1"><b>Onde Vivo:</b>Vouzela</li>
 
             </ul>
+            <div class="container-img"></div>
         </div>
-        <div class="container-img"></div>
         <br>
-        <hr style="width: 97%; margin: 0 auto;">
+        <hr class="hr-style">
 
-        <div class="text-topicos"> <a id="conta">Contacte-me </a></div>
+        <section class="text-topicos"><a id="conta">Contacte-me</a> </section>
 
         <div class="container-form">
             <form>
@@ -63,7 +62,7 @@
                             <label for="email ">Mensagem:</label>
                         </div>
                         <div class="coluna-input">
-                            <input type="text " name="msg " class="input" style="height:50px">
+                            <textarea class="area"> </textarea>
                         </div>
                     </div>
                     <br>
@@ -74,16 +73,18 @@
             </form>
             <br>
         </div>
-        <hr style="width: 97%; margin: 0 auto;">
+        <hr class="hr-style">
 
-        <div class="text-topicos"><a id="Links">Os meus links Favoritos</a></div>
+        <section class="text-topicos"><a id="Links">Os meus links Favoritos</a> </section>
         <ul>
             <li>A bola</li>
             <li>Record</li>
             <li>O Jogo</li>
         </ul>
         <br>
-    </div>
+
+    </main>
+
     <footer>
         <div class="footer-text"><a href="#quem ">Quem sou</a>| <a href="#conta ">Contacte-me</a> | <a href="#Links ">Links</a></div>
     </footer>
