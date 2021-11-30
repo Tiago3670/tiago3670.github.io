@@ -2,7 +2,7 @@
           margin: 0;
           background-color: #f1f1f1;
           height: 100%;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
       }
       
       header {
@@ -12,7 +12,7 @@
       }
       
       .container-name {
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           width: 70%;
           height: 150px;
           background-color: rgba(79, 205, 226, 255);
@@ -22,7 +22,7 @@
       }
       
       .text-name {
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           font-weight: bold;
           font-size: 40px;
           margin-left: 30px;
@@ -31,7 +31,7 @@
       }
       
       .text-1 {
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           font-weight: bold;
           font-size: 23px;
           margin-left: 30px;
@@ -51,7 +51,7 @@
       }
       
       main {
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           width: 70%;
           height: 150px;
           background-color: rgba(79, 205, 226, 255);
@@ -76,7 +76,7 @@
           color: #fff;
           font-size: 19px;
           align-items: center;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           justify-content: center;
       }
       
@@ -86,7 +86,7 @@
           font-size: 16px;
           padding: 0px 4px;
           text-decoration: none;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
       }
       
       .text-2 a {
@@ -99,7 +99,7 @@
           margin-top: 1em;
           font-weight: bold;
           margin-left: 30px;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           height: 10%;
       }
       
@@ -117,7 +117,7 @@
           width: 100%;
           display: flex;
           position: relative;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
       }
       
       .container-img {
@@ -138,7 +138,7 @@
       
       .input {
           width: 100%;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           padding: 12px;
           border: 1px solid rgb(0, 0, 0);
           resize: vertical;
@@ -152,14 +152,14 @@
           border: 1px solid rgb(0, 0, 0);
           resize: vertical;
           margin-left: -5em;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
       }
       
       label {
           padding: 12px 12px 12px 0;
           display: inline-block;
           margin-top: -3px;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
       }
       
       .btn {
@@ -174,7 +174,7 @@
           width: 7em;
           color: black;
           font-weight: bold;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           height: 3em;
       }
       
@@ -184,14 +184,14 @@
           display: block;
           margin-left: 13px;
           margin-right: 13px;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
       }
       
       .coluna-txt {
           float: left;
           width: 25%;
           margin-top: 6px;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
       }
       
       .coluna-input {
@@ -229,7 +229,7 @@
       .footer-text {
           color: #FFFFFF;
           font-size: 25px;
-          font-family: roboto;
+          font-family: Arial, Helvetica, sans-serif;
           margin-left: 16%;
       }
       
